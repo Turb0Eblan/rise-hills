@@ -1,0 +1,559 @@
+{
+  "blocks": [
+    {
+      "id": 1,
+      "slave": "orange",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            0,
+            7
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            8,
+            11
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slave": "orange",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            12,
+            15
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            16,
+            20
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slave": "orange",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            21,
+            24
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            25,
+            29
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slave": "orange",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            30,
+            36
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            37,
+            40
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slave": "orange",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            41,
+            47
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            48,
+            54
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slave": "blue",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            42,
+            48
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            49,
+            54
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slave": "blue",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            33,
+            36
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            37,
+            41
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slave": "blue",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            24,
+            27
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            28,
+            32
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slave": "blue",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            15,
+            18
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            19,
+            23
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slave": "blue",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            0,
+            8
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            9,
+            14
+          ],
+          "apartments": []
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "id": 11,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            78,
+            85
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            86,
+            93
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            66,
+            73
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            74,
+            77
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            55,
+            61
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            62,
+            65
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            46,
+            49
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            50,
+            54
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            37,
+            40
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            41,
+            45
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            26,
+            32
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            33,
+            36
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "slave": "yellow",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            0,
+            13
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            14,
+            25
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            90,
+            103
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            104,
+            117
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            75,
+            83
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            84,
+            89
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            66,
+            69
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            70,
+            74
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            55,
+            61
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            62,
+            65
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            43,
+            50
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            51,
+            54
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            32,
+            34
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            39,
+            42
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            21,
+            27
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            28,
+            31
+          ],
+          "apartments": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "slave": "red",
+      "floors": [
+        {
+          "floor": 1,
+          "floorRange": [
+            0,
+            8
+          ],
+          "apartments": []
+        },
+        {
+          "floor": 2,
+          "floorRange": [
+            9,
+            20
+          ],
+          "apartments": []
+        }
+      ]
+    }
+  ]
+}
