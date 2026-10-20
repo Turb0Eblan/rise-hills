@@ -1,0 +1,47 @@
+=== MASTER CONTROLLER — COMMANDS ===
+
+--- LED devices (blue | red | yellow | orange) ---
+
+Global (all 4 devices at once):
+  off                              — turn all off
+  on / on white                    — turn all on (color optional)
+  allOn                            — turn all on in white
+  random                           — random effect on all
+  brightness 128                   — brightness 0–255
+  fill red                         — fill with a color
+  blink white 500 10               — blink: color, period ms, count
+  breath blue 50 8                 — breathe: color, steps, pause ms
+  wipe cyan 5                      — wipe: color, pause ms
+  chase white 30 2                 — chase: color, tail px, pause ms
+  sparkle yellow 20 60 15          — sparkle: color, count, pause ms, iterations
+  strobe white 50 50 8             — strobe: color, on ms, off ms, count
+  sections 4                       — split the strip into N sections
+  reffect 0 500 chase white 30 2   — effect on a pixel range (all)
+  range 0 500 red                  — color a pixel range (all)
+
+For a specific device:
+  blue on red                      — turn blue on in red
+  red fill cyan                    — fill red with cyan
+  yellow solo                      — yellow on, others off
+  orange reffect 0 500 chase white 30 2  — effect on a range on orange
+  blue range 0 200 red             — pixel range on blue
+
+Colors: white red green blue yellow cyan magenta orange purple warm off
+        or RGB(W): 255,100,0,0
+
+--- Building Layout (lift) ---
+  building down    — lower: M1 → pause → M3 → pause → M2
+  building up      — raise: M2 → pause → M3 → pause → M1
+  building stop    — emergency stop
+
+--- Alley Stepper ---
+  alley 1          — POS1: retract (LED turns off)
+  alley 2          — POS2: extend (LED + running light)
+  alley help       — status and configuration
+
+--- System ---
+  status           — list devices with MAC addresses
+  help             — help
+  all <command>    — explicitly send a command to all LED devices
+
+=====================================

@@ -1,0 +1,8 @@
+.DS_Store
+.pio/
+.venv/
+__pycache__/
+.vscode/
+.claude/
+Backup_of_*
+Комагды.rtf
